@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd
-# Command to print working directory
+pwd # Command to print working directory
