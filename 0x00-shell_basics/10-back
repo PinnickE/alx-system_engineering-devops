@@ -1,2 +1,2 @@
 #!/bin/bash
-cd .. # Up one directory
+cd - # To previous working directory
