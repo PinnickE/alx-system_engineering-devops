@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello betty # Change owner to Betty
+chown tmp/hello betty # Change owner to Betty
