@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff * # Changing owner and group owner for all
+chown vincent:staff *
