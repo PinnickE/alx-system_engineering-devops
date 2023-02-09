@@ -1,0 +1,2 @@
+#!/bin/bash
+mv [[:upper:]]* /tmp/u # Move all files beginning with uppercase characters
