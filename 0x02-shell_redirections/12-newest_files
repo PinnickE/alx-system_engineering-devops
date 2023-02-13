@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -at | head # Ten newest files
+ls -1t | head # Ten newest files
