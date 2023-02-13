@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta # Displaying the third line
+head -3 iacta | tail -1 # Displaying the third line
