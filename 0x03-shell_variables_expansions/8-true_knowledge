@@ -1,2 +1,2 @@
 #!/bin/bash
-echo$(($TRUEKNOWLEDGE + 128)) # Adding 128 to variable
+echo $(($TRUEKNOWLEDGE + 128)) # Adding 128 to variable
