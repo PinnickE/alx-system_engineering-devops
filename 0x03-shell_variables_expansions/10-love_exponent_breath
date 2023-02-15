@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($BREATH**$LOVE)) # Breath to the power of love
